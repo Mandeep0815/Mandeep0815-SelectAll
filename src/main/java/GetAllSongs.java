@@ -19,7 +19,9 @@ import java.util.List;
  * Additional reference material if needed: https://www.w3schools.com/sql/sql_select.asp
  */
 public class GetAllSongs {
-
+    public static void main(String[] args) {
+        
+    }
     /**
      *  Assignment: write the SQL statement in the problem1.sql file to retrieve all the rows and columns from the
      *  table "song". The db table we will utilize for this problem is the "song" table below
